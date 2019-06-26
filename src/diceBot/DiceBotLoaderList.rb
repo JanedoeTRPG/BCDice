@@ -127,6 +127,7 @@ class DiceBotLoaderList
     DiceBotLoader.new('GURPS', :filenames => %w(Gurps)),
     DiceBotLoader.new('GurpsFW'),
     DiceBotLoader.new('FilledWith'),
+    DiceBotLoader.new('FilledWithKai'),
     DiceBotLoader.new('HarnMaster'),
     DiceBotLoader.new('Insane'),
     DiceBotLoader.new('KillDeathBusiness'),
