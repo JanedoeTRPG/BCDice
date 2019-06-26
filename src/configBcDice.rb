@@ -90,6 +90,7 @@ EmbryoMachine
 EndBreaker
 EtrianOdysseySRS
 FilledWith
+FilledWithKai
 FullMetalPanic
 FutariSousa
 GURPS
