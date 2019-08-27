@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#
 class FutariSousa < DiceBot
   def initialize
     super
